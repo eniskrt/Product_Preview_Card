@@ -26,7 +26,7 @@ main.container{
     justify-content: center;
     align-items: center;
 }
-main.container section.left-side{
+main.container div.left-side{
     height: 450px;
     width: 300px;
     background-image: url("../images/image-product-desktop.jpg");
@@ -108,7 +108,7 @@ main.container .right-side button:hover{
         justify-content: center;
         align-items: center;
     }
-    main.container section.left-side{
+    main.container div.left-side{
         width: 343px;
         height: 240px;
         background-image: url("../images/image-product-mobile.jpg");
